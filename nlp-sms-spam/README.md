@@ -117,7 +117,7 @@ jupyter notebook notebooks/SMS_Spam_Detection_Analysis.ipynb
 
 ## Team
 
-**Nadine Adel Menacy** (A9ATIE) | **Aboumoussa Mohamed Aly** (JE1WAQ) | **Sahriar Rahman Nahid** (IBRO2O)
+**Nadine Adel Menacy** (A9ATIE) | **Aboumoussa Mohamed Aly** (JE1WAQ) 
 
 ## Conclusion
 
