@@ -1,7 +1,7 @@
 # SMS Spam Detection - Technical Report
 
 **University of Debrecen – Department of Data Science and Visualization**  
-**Students:** Nadine Adel Menacy (A9ATIE), Aboumoussa Mohamed Aly (JE1WAQ), Sahriar Rahman Nahid (IBRO2O)  
+**Students:** Nadine Adel Menacy (A9ATIE), Aboumoussa Mohamed Aly (JE1WAQ)
 **Course:** Natural Language Text Processing (Róbert Lakatos) | **Date:** November 29, 2025
 
 ## Table of Contents
