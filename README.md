@@ -1,7 +1,7 @@
 # SMS Spam Detection using NLP & Neural Networks
 
 **University of Debrecen – Department of Data Science and Visualization**  
-**Students:** Nadine Adel Menacy (A9ATIE), Aboumoussa Mohamed Aly (JE1WAQ)  
+**Students:** Nadine Adel Menacy (A9ATIE), Aboumoussa Mohamed Aly (JE1WAQ)
 **Course:** Introduction to Natural Language Text Processing (Róbert Lakatos, 2024/25) | **Semester:** Autumn 2025
 
 ## Overview
